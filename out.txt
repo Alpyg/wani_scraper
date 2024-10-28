@@ -1,0 +1,5 @@
+#separator:tab
+#html:true
+#deck column:1
+#notetype column:2
+#tags column:3

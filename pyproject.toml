@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "wani-scraper"
+version = "0.1.0"
+description = ""
+authors = ["Alpyg <alpyg@pm.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+selenium = "^4.25.0"
+webdriver-manager = "^4.0.2"
+argparse = "^1.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
